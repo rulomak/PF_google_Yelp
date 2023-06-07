@@ -2,9 +2,9 @@
 
 ## Data de google maps 
 
-se puede observar que los datos de reviews estan agrupados por cada uno de los estados de USA  en carpetas divivida en diferenctes archivos  
+se puede observar que los datos de reviews estan agrupados por cada uno de los estados de USA  en carpetas divivida en diferenctes archivos. 
 
-se crea una funcion la cual que lee y concatena todos los archivo  pormando un dataframe por estado  
+Se crea una funcion la cual lee y concatena todos los archivo formando un dataframe por estado  
 
 ### Vemos que cada dataframe cuenta con 8 columnas y que tiene una relacion con la metadata por "gmap_id"
 
@@ -19,7 +19,8 @@ se crea una funcion la cual que lee y concatena todos los archivo  pormando un d
 <img src="../img/google metadata.JPG"  height="280">
 
 
-## no se observan datos nulos significativos en los campos de interez 
+### no se observan datos nulos significativos en los campos de interez 
+
 
 *** 
 
