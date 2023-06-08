@@ -64,4 +64,4 @@ df['cluster'] = df['cluster'].map(diccionario_cluster)
 df.rename(columns={'cluster': 'sector_economico'}, inplace=True)
 
 print(df[['sector_economico', 'category']].head(20))
-# df.to_csv('metadata_google_clustered.csv', index=False)
+df.to_csv('metadata_google_clustered.csv', index=False)

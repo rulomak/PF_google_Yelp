@@ -23,7 +23,7 @@
 
 ### **Fuentes de datos**
 
-Fuentes de datos principal:
+Fuentes de datos principales:
 +   [Dataset de Google Maps](https://drive.google.com/drive/folders/1Wf7YkxA0aHI3GpoHc9Nh8_scf5BbD4DA?usp=share_link)
 +   [Dataset de Yelp!](https://drive.google.com/drive/folders/1TI-SsMnZsNP6t930olEEWbBQdo_yuIZF?usp=sharing)
 
