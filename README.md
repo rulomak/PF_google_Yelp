@@ -9,7 +9,7 @@ Proponemos utilizar el histórico de reseñas de usuarios recopiladas de platafo
 
 ## **Equipo**
 
-<img src="img/analizing%20logo.jpg"  height="117">
+<img src="img/analizing%20logo.jpg"  height="125">
 
 | **Rol** | **Nombre** | **Github** |
 |:---:|:---:|---|
@@ -20,7 +20,7 @@ Proponemos utilizar el histórico de reseñas de usuarios recopiladas de platafo
 | _Data Analyst & Machine learning_ | Santiago Valor | @santivalor |
 
 ***
-## **Diagrama de entidad relacion SQL **
+## **Diagrama de entidad relacion SQL**
 <img src="img/diagramaR.JPG"  height="590">
 
 ***
