@@ -20,10 +20,14 @@ Proponemos utilizar el histórico de reseñas de usuarios recopiladas de platafo
 | _Data Analyst & Machine learning_ | Santiago Valor | @santivalor |
 
 ***
+<<<<<<< HEAD
 
 ## **Diagrama de entidad relacion SQL**
 
 
+=======
+## **Diagrama de entidad relacion SQL**
+>>>>>>> fe5edfb16a7d219bc6a31ee8abfe560aa31ead0f
 <img src="img/diagramaR.JPG"  height="590">
 
 ***
