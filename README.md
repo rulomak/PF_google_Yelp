@@ -55,6 +55,8 @@ Proponemos utilizar el histórico de reseñas de usuarios recopiladas de platafo
 
 [>>> Funciones de clusterizacion ](Pipeline_local/clustering.py)
 
+[>>> Modelo ML ](Modelo_ML/README.md)
+
 [>>> Dashboard pre ](https://app.powerbi.com/view?r=eyJrIjoiZDkzMjAxM2QtMjY5Mi00ZWJmLTg2NTQtYWM4MWY1NTcwY2E3IiwidCI6ImY1ODQzMWRmLTMyNDUtNGIyMi04NjQ1LTVmZmY5ODc0NjY3MiIsImMiOjR9)
 
 
