@@ -36,7 +36,7 @@ Proponemos utilizar el histórico de reseñas de usuarios recopiladas de platafo
 
 ### **Enlaces**
 
-[>>> Calidad de los datos ](CalidadDeDatos/README.md)
+[>>> Calidad de los datos ](CalidadDeDatos/readme.md)
 
 [>>> Diccionario de datos ](Diccionario%20de%20datos/diccionario.md)
 
@@ -49,7 +49,7 @@ Proponemos utilizar el histórico de reseñas de usuarios recopiladas de platafo
 
 ### **Enlaces**
 
-[>>> Pipelines ](Pipeline_local/README.md)
+[>>> Pipelines ](Pipeline_local/readme.md)
 
 [>>> Video de ETL mediante los pipelines ](https://www.youtube.com/watch?v=79StfoUALyE)
 
