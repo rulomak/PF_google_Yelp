@@ -32,7 +32,31 @@ Proponemos utilizar el histórico de reseñas de usuarios recopiladas de platafo
 ### **Semana 2**
 <img src="img/semana2.png"  height="590">
 
+
+
+### **Enlaces**
+
+[>>> Calidad de los datos ](CalidadDeDatos/README.md)
+
+[>>> Diccionario de datos ](Diccionario%20de%20datos/diccionario.md)
+
+[>>> Datos complementarios ](Datos_complementarios_APIs/README.md)
+
 ***
+
+### **Semana 3**
+<img src="img/semana3.JPG"  height="555">
+
+### **Enlaces**
+
+[>>> Pipelines ](Pipeline_local/README.md)
+
+[>>> Video de ETL mediante los pipelines ](https://www.youtube.com/watch?v=79StfoUALyE)
+
+[>>> Funciones de clusterizacion ](Pipeline_local/clustering.py)
+
+[>>> Dashboard pre ](https://app.powerbi.com/view?r=eyJrIjoiZDkzMjAxM2QtMjY5Mi00ZWJmLTg2NTQtYWM4MWY1NTcwY2E3IiwidCI6ImY1ODQzMWRmLTMyNDUtNGIyMi04NjQ1LTVmZmY5ODc0NjY3MiIsImMiOjR9)
+
 
 ## **Fuentes de datos**
 
