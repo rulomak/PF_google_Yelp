@@ -60,6 +60,40 @@ Proponemos utilizar el histórico de reseñas de usuarios recopiladas de platafo
 [>>> Dashboard pre ](https://app.powerbi.com/view?r=eyJrIjoiZDkzMjAxM2QtMjY5Mi00ZWJmLTg2NTQtYWM4MWY1NTcwY2E3IiwidCI6ImY1ODQzMWRmLTMyNDUtNGIyMi04NjQ1LTVmZmY5ODc0NjY3MiIsImMiOjR9)
 
 
+## **KPIs**
+
+**Aumentar la cantidad de reseñas en un 30% para el último mes respecto al mes anterior**
+
+Descripción: Este KPI mide el crecimiento porcentual de la cantidad de reseñas en comparación con el mes anterior. El objetivo es aumentar las reseñas en un 30% para mantener un flujo constante de feedback de los usuarios.
+
+Fórmula:
+Primero, calcula la cantidad de reseñas para el último mes (ReseñasMesActual).
+Luego, calcula la cantidad de reseñas para el mes anterior (ReseñasMesAnterior).
+Finalmente, utiliza la fórmula: ((ReseñasMesActual - ReseñasMesAnterior) / ReseñasMesAnterior) * 100
+
+**Mantener un promedio superior a 3.5 de rating el último mes**
+
+Descripción: Este KPI se centra en el promedio de calificaciones de los locales. El objetivo es mantener un promedio de rating superior a 3.5 para garantizar la satisfacción general de los usuarios.
+
+Fórmula: Calcula el promedio de rating para el último mes y compáralo con 3.5.
+
+**Aumentar la cantidad de locales en 300 para el último mes**
+
+Descripción: Este KPI se enfoca en el crecimiento de la base de datos de locales. El objetivo es agregar 300 nuevos locales al dataset durante el último mes para expandir la cobertura y ofrecer más opciones a los usuarios.
+
+Fórmula: Calcula la cantidad de locales nuevos agregados durante el último mes y compáralo con 300.
+
+**Aumentar el número de reseñas positivas en un 50% para el último mes respecto al mes anterior**
+
+Descripción: Este KPI se centra en el aumento de las reseñas positivas, lo que indica una buena experiencia de los usuarios. El objetivo es incrementar en un 50% la cantidad de reseñas positivas en comparación con el mes anterior.
+
+Fórmula:
+Primero, calcula la cantidad de reseñas positivas para el último mes (ReseñasPositivasMesActual).
+Luego, calcula la cantidad de reseñas positivas para el mes anterior (ReseñasPositivasMesAnterior).
+Finalmente, utiliza la fórmula: ((ReseñasPositivasMesActual - ReseñasPositivasMesAnterior) / ReseñasPositivasMesAnterior) * 100
+Recuerda que las fórmulas y medidas específicas dependerán de la estructura y columnas de tu conjunto de datos. Asegúrate de adaptarlas según corresponda.
+
+
 ## **Fuentes de datos**
 
 Fuentes de datos principales:
