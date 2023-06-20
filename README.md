@@ -113,15 +113,15 @@ Fuentes de datos complementarias:
 
 
 <div>
-  <img src="https://imonezaprod.blob.core.windows.net/wp-assets/2014/09/azure-cloud-logo.png" alt="Azure" style="display: inline-block; width: 295px;">
-  <img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo-600x311.png" alt="MySql" style="display: inline-block; width: 295px;">
-  <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="Power BI" style="display: inline-block; width: 295px;">
+  <img src="https://imonezaprod.blob.core.windows.net/wp-assets/2014/09/azure-cloud-logo.png" alt="Azure" style="display: inline-block; width: 269px;">
+  <img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo-600x311.png" alt="MySql" style="display: inline-block; width: 269px;">
+  <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="Power BI" style="display: inline-block; width: 269px;">
 </div>
 
 <div>
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" style="display: inline-block; width: 295px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" style="display: inline-block; width: 295px;">
-  <img src="https://jupyter.org/assets/share.png" alt="Jupiter" style="display: inline-block; width: 295px;">
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" style="display: inline-block; width: 269px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" style="display: inline-block; width: 265px;">
+  <img src="https://jupyter.org/assets/share.png" alt="Jupiter" style="display: inline-block; width: 269px;">
 </div>
 
 ***
