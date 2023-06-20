@@ -53,11 +53,13 @@ Proponemos utilizar el histórico de reseñas de usuarios recopiladas de platafo
 
 [>>> Video de ETL mediante los pipelines ](https://www.youtube.com/watch?v=79StfoUALyE)
 
+[>>> Segmentacion por categorias ](clasificacion%20de%20categorias/README.md)
+
 [>>> Funciones de clusterizacion ](Pipeline_local/clustering.py)
 
 [>>> Modelo ML ](Modelo_ML/README.md)
 
-[>>> Dashboard pre ](https://app.powerbi.com/view?r=eyJrIjoiZDkzMjAxM2QtMjY5Mi00ZWJmLTg2NTQtYWM4MWY1NTcwY2E3IiwidCI6ImY1ODQzMWRmLTMyNDUtNGIyMi04NjQ1LTVmZmY5ODc0NjY3MiIsImMiOjR9)
+[>>> Dashboard  ](https://app.powerbi.com/view?r=eyJrIjoiZDkzMjAxM2QtMjY5Mi00ZWJmLTg2NTQtYWM4MWY1NTcwY2E3IiwidCI6ImY1ODQzMWRmLTMyNDUtNGIyMi04NjQ1LTVmZmY5ODc0NjY3MiIsImMiOjR9)
 
 
 ## **KPIs**
@@ -93,6 +95,7 @@ Luego, calcula la cantidad de reseñas positivas para el mes anterior (ReseñasP
 Finalmente, utiliza la fórmula: ((ReseñasPositivasMesActual - ReseñasPositivasMesAnterior) / ReseñasPositivasMesAnterior) * 100
 Recuerda que las fórmulas y medidas específicas dependerán de la estructura y columnas de tu conjunto de datos. Asegúrate de adaptarlas según corresponda.
 
+*** 
 
 ## **Fuentes de datos**
 
@@ -106,3 +109,19 @@ Fuentes de datos complementarias:
 
 ***
 
+## **Herramientas y tecnologicas:**
+
+
+<div>
+  <img src="https://imonezaprod.blob.core.windows.net/wp-assets/2014/09/azure-cloud-logo.png" alt="Azure" style="display: inline-block; width: 295px;">
+  <img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo-600x311.png" alt="MySql" style="display: inline-block; width: 295px;">
+  <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="Power BI" style="display: inline-block; width: 295px;">
+</div>
+
+<div>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" style="display: inline-block; width: 295px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" style="display: inline-block; width: 295px;">
+  <img src="https://jupyter.org/assets/share.png" alt="Jupiter" style="display: inline-block; width: 295px;">
+</div>
+
+***
