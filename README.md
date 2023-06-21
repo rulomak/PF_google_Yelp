@@ -59,7 +59,9 @@ Proponemos utilizar el histórico de reseñas de usuarios recopiladas de platafo
 
 [>>> Modelo ML ](Modelo_ML/README.md)
 
-[>>> Dashboard  ](https://app.powerbi.com/view?r=eyJrIjoiZDkzMjAxM2QtMjY5Mi00ZWJmLTg2NTQtYWM4MWY1NTcwY2E3IiwidCI6ImY1ODQzMWRmLTMyNDUtNGIyMi04NjQ1LTVmZmY5ODc0NjY3MiIsImMiOjR9)
+[>>> Dashboard ](dashboard/README.md)
+
+[>>> Dashboard interactivo ](https://app.powerbi.com/view?r=eyJrIjoiZDkzMjAxM2QtMjY5Mi00ZWJmLTg2NTQtYWM4MWY1NTcwY2E3IiwidCI6ImY1ODQzMWRmLTMyNDUtNGIyMi04NjQ1LTVmZmY5ODc0NjY3MiIsImMiOjR9)
 
 
 ## **KPIs**
