@@ -9,7 +9,7 @@ Proponemos utilizar el histórico de reseñas de usuarios recopiladas de platafo
 
 ## **Equipo**
 
-<img src="img/logo.jpg"  height="69">
+<img src="img/logo.jpg"  height="82">
 
 | **Rol** | **Nombre** | **Github** |
 |:---:|:---:|---|
