@@ -21,7 +21,10 @@ Proponemos utilizar el histórico de reseñas de usuarios recopiladas de platafo
 
 ***
 
+[![](https://markdown-videos.deta.dev/youtube/MR1f4V39Trs)](https://www.youtube.com/watch?v=MR1f4V39Trs)
+ 
 
+*** 
 ## **Diagrama de entidad relacion SQL**
 
 <img src="img/diagramaR.JPG"  height="590">
@@ -61,7 +64,7 @@ Proponemos utilizar el histórico de reseñas de usuarios recopiladas de platafo
 
 [>>> Dashboard ](dashboard/README.md)
 
-[>>> Dashboard interactivo ](https://app.powerbi.com/view?r=eyJrIjoiZDkzMjAxM2QtMjY5Mi00ZWJmLTg2NTQtYWM4MWY1NTcwY2E3IiwidCI6ImY1ODQzMWRmLTMyNDUtNGIyMi04NjQ1LTVmZmY5ODc0NjY3MiIsImMiOjR9)
+[>>> Aplicacion ](https://anlyzing-q1chgtk8t3g.streamlit.app/)
 
 
 ## **KPIs**
