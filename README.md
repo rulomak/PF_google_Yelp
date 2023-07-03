@@ -21,8 +21,8 @@ Proponemos utilizar el histórico de reseñas de usuarios recopiladas de platafo
 
 ***
 
-[![](https://markdown-videos.deta.dev/youtube/MR1f4V39Trs)](https://www.youtube.com/watch?v=MR1f4V39Trs)
- 
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=MR1f4V39Trs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 *** 
 ## **Diagrama de entidad relacion SQL**
