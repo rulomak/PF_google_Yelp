@@ -20,9 +20,9 @@ Proponemos utilizar el histórico de reseñas de usuarios recopiladas de platafo
 | _Data Analyst & Machine learning_ | Santiago Valor | @santivalor |
 
 ***
+**Video Demo**
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=MR1f4V39Trs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Video Demo](img/mini_video.jpg)](https://www.youtube.com/watch?v=MR1f4V39Trs)
 
 *** 
 ## **Diagrama de entidad relacion SQL**
